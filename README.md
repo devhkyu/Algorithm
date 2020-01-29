@@ -2,7 +2,7 @@
 ## :notebook: Do it! 자료구조와 함께 배우는 알고리즘 입문 :notebook:
 ![doit](https://user-images.githubusercontent.com/44195740/73323315-6a073a00-428a-11ea-8531-3602337c2572.jpg)  
 ### :page_facing_up: Index
->1. Basic Algorithm  
+>[1. Basic Algorithm](https://github.com/ChoiHyungKyu/Algorithm/tree/master/C/DataStructure_Algorithm/Day1)  
 >2. Basic Data Structure  
 >3. Searching  
 >4. Stack & Queue  
