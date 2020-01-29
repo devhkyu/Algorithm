@@ -45,5 +45,20 @@
     <ClCompile Include="sum_for_pos.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="dbl_digits.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="multi99table.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="practice4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="triangleLB.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="practice5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
