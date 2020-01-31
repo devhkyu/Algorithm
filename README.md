@@ -20,10 +20,10 @@
 http://www.easyspub.co.kr/  
 
 # Version
-##### Python 3.7.3
-##### Pycharm 2019.2
-##### Visual Studio 2019
-##### Eclipse 4.11
+![python](https://img.shields.io/badge/Python-3.7.3%2B-green.svg)
+![pycharm](https://img.shields.io/badge/Pycharm-2019.2%2B-blue.svg)
+![visual_studio](https://img.shields.io/badge/VisualStudio-2019%2B-blue.svg)
+![eclipse](https://img.shields.io/badge/Eclipse-4.11%2B-blue.svg)
 
 # License
 ```
