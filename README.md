@@ -17,7 +17,7 @@
 ![compile1](https://user-images.githubusercontent.com/44195740/73323239-23194480-428a-11ea-8130-ebfb306fbb41.png)
 ![compile2](https://user-images.githubusercontent.com/44195740/73323242-24e30800-428a-11ea-9373-420ef7704ec8.png)  
 ### :mag: Reference
-https://www.easypub.co.kr  
+http://www.easyspub.co.kr/  
 
 # Version
 ##### Python 3.7.3
