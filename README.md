@@ -17,13 +17,13 @@
 ![compile1](https://user-images.githubusercontent.com/44195740/73323239-23194480-428a-11ea-8130-ebfb306fbb41.png)
 ![compile2](https://user-images.githubusercontent.com/44195740/73323242-24e30800-428a-11ea-9373-420ef7704ec8.png)  
 ### :mag: Reference
-https://www.easypub.co.kr  
+http://www.easyspub.co.kr/  
 
 # Version
-##### Python 3.7.3
-##### Pycharm 2019.2
-##### Visual Studio 2019
-##### Eclipse 4.11
+![python](https://img.shields.io/badge/Python-3.7.3%2B-green.svg)
+![pycharm](https://img.shields.io/badge/Pycharm-2019.2%2B-blue.svg)
+![visual_studio](https://img.shields.io/badge/VisualStudio-2019%2B-blue.svg)
+![eclipse](https://img.shields.io/badge/Eclipse-4.11%2B-blue.svg)
 
 # License
 ```
