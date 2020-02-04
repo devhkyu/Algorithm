@@ -3,7 +3,7 @@
 ![doit](https://user-images.githubusercontent.com/44195740/73323315-6a073a00-428a-11ea-8531-3602337c2572.jpg)  
 ### :page_facing_up: Index
 >[1. Basic Algorithm](https://github.com/ChoiHyungKyu/Algorithm/tree/master/C/DataStructure_Algorithm/Day1)  
->2. Basic Data Structure  
+>[2. Basic Data Structure](https://github.com/ChoiHyungKyu/Algorithm/tree/master/C/DataStructure_Algorithm/Day2)  
 >3. Searching  
 >4. Stack & Queue  
 >5. Recursive Algorithm  
