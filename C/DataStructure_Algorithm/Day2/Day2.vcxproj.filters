@@ -84,5 +84,14 @@
     <ClCompile Include="practice11.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="physical.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="practice12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="practice13.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
