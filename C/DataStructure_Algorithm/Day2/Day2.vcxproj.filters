@@ -63,7 +63,25 @@
     <ClCompile Include="practice8.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="prime1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="prime2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="prime3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dayofyear.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="practice10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="practice9.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="practice11.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
