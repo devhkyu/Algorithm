@@ -21,5 +21,17 @@
     <ClCompile Include="ssearch2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ssearch_sen.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bin_search.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="practice1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="practice2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
