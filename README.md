@@ -4,7 +4,7 @@
 ### :page_facing_up: Index
 >[1. Basic Algorithm](https://github.com/ChoiHyungKyu/Algorithm/tree/master/C/DataStructure_Algorithm/Day1)  
 >[2. Basic Data Structure](https://github.com/ChoiHyungKyu/Algorithm/tree/master/C/DataStructure_Algorithm/Day2)  
->3. Searching  
+>[3. Searching](https://github.com/ChoiHyungKyu/Algorithm/tree/master/C/DataStructure_Algorithm/Day3)  
 >4. Stack & Queue  
 >5. Recursive Algorithm  
 >6. Sorting  
