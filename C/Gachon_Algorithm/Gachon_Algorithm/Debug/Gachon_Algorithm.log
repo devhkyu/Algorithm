@@ -1,0 +1,8 @@
+﻿  problem1.cpp
+C:\Users\fabri\Desktop\GITHUB\Algorithm\C\Gachon_Algorithm\Gachon_Algorithm\problem1.cpp(24,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\fabri\Desktop\GITHUB\Algorithm\C\Gachon_Algorithm\Gachon_Algorithm\problem1.cpp(85,13): warning C4244: '초기화 중': '_Ty'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=__int64
+          ]
+  Gachon_Algorithm.vcxproj -> C:\Users\fabri\Desktop\GITHUB\Algorithm\C\Gachon_Algorithm\Debug\Gachon_Algorithm.exe
