@@ -4,10 +4,12 @@
 using namespace std;
 
 int main() {
+	// Test set
 	//vector<int> test1 = { 1, 2, 3, 4, 5 };
 	vector<int> test1 = { 5, 4, 3, 2, 1 };
 	//vector<int> test1 = { 5, 1, 2, 3, 4 };
 
+	// Declaring vector 3-Stacks
 	vector<int> input_stack;
 	vector<int> temp_stack;
 	vector<int> output_stack;
